@@ -1,7 +1,7 @@
 # Links
 ### Internal links
-[Notes](Notes)
-[[Notes]]
+[Notes](General/Notes.md)
+[[General/Notes]]
 
 ### External link
 [Google](https://www.google.com/)
@@ -79,6 +79,6 @@ tags
 
 
 
-[[Notes]]
+[[General/Notes]]
 
 
