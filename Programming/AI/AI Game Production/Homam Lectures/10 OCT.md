@@ -2,13 +2,13 @@
 # Misc
 [Lecture](https://changemakereducation-my.sharepoint.com/personal/homam_mokayed_cmeducations_se/_layouts/15/stream.aspx?id=%2Fpersonal%2Fhomam%5Fmokayed%5Fcmeducations%5Fse%2FDocuments%2FInspelningar%2F10%20Oct%20%2D%20Lecture%20Homam%20Mokayed%2D20221010%5F170047%2DMeeting%20Recording%2Emp4&ga=1)
 #### Contact
-![[Pasted image 20221121165539.png]]
+![[HomamContact.png]]
 # Course intro / focus
 ### AI in gaming
-![[Pasted image 20221121160856.png]]
+![[AIandGaming.png]]
 
 ### AI Fields
-![[Pasted image 20221121161154.png]]
+![[AIfields.png]]
 
 ### Course focus
 #### General
@@ -25,17 +25,17 @@ This course will be more general and focus on applications of AI in the real wor
 - Object detection
 
 #### Real project examples
-![[Pasted image 20221121161615.png]]
-![[Pasted image 20221121161636.png]]
-![[Pasted image 20221121161649.png]]
-![[Pasted image 20221121162008.png]]
-![[Pasted image 20221121162023.png]]
-![[Pasted image 20221121162035.png]]
-![[Pasted image 20221121162056.png]]
-![[Pasted image 20221121162111.png]]
+![[VISrelated.png]]
+![[StatAnalysis.png]]
+![[SmartPark.png]]
+![[AccidentDetect.png]]
+![[VHCLProperties.png]]
+![[3DLocIndicate.png]]
+![[Dashboards.png]]
+![[TrafficSim.png]]
 
 #### Main course objective
-![[Pasted image 20221121162209.png]]
+![[LearningOutcomes.png]]
 #### Challenges
 - Different kinds of number plates
 - Different placement of number plates
@@ -44,17 +44,18 @@ This course will be more general and focus on applications of AI in the real wor
 - Material of number plates / Reflectiveness of number plate
 
 #### Main teaching points
-![[Pasted image 20221121163403.png]]
+![[TeachingPoints.png]]
 
 #### Course Pre-requisite
 **Visual studio (C++)**
 **OpenCV 4.6.0 Library** [Link](https://opencv.org/releases/)
 
 #### Course Syllabus
-![[Pasted image 20221121165030.png]]
+![[Syllabus.png]]
 
 
-# .
+# ;
+
 ### Pipeline for License plate recognition
 **Image Processing -> Machine Learning**
 ##### Image
@@ -72,7 +73,7 @@ Get image from feed -> Enhance image -> Detect number plate -> Detect sections (
 #### Explained
 We have to get an image and extract the unique features (individual characters) from the image. We then implement machine learning to make the computer learn and recognize what characters it is seeing 
 
-
+### ;
 ### Image processing
 
 #### Main image properties to consider
@@ -96,7 +97,7 @@ We have to get an image and extract the unique features (individual characters) 
 ![[Pasted image 20221121190033.png]]
 
 
-###### .
+###### ;
 Memory size depends on if image is Binary(Black/White), Grey Scale or RGB
 **Binary:**
 0-1 (Black or White)
@@ -113,7 +114,12 @@ Memory size depends on if image is Binary(Black/White), Grey Scale or RGB
 24 bits per pixel (for R,G,B)
 3 values per pixel
 
-##### .
+##### ;
+#### ;
+### ;
 
-**Stopped at 1:19**
+
+
+
+
 

@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c0682f2f4b5a3fc",
+            "id": "f24dd0fcf0b728a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Shaders/UE4 Shaders Ben Cloward/3. What are Data Types.md",
+                "file": "Programming/AI/AI Game Production/Homam Lectures/10 OCT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f24dd0fcf0b728a0",
+            "id": "17c0195b079cc7f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Shaders/Cel-Shaders/General Notes.md",
+                "file": "Programming/AI/AI Game Production/Homam Lectures/12 OCT.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121165030.png"
+                "file": "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Syllabus.png"
               }
             }
           },
@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/10 OCT.md",
+                "file": "General/HowToObsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/10 OCT.md",
+                "file": "Programming/AI/AI Game Production/Homam Lectures/12 OCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/10 OCT.md",
+                "file": "Programming/AI/AI Game Production/Homam Lectures/12 OCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/10 OCT.md"
+                "file": "Programming/AI/AI Game Production/Homam Lectures/12 OCT.md"
               }
             }
           }
@@ -183,17 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "979dc040d4f33046",
+  "active": "17c0195b079cc7f7",
   "lastOpenFiles": [
-    "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121190033.png",
     "Programming/AI/AI Game Production/Homam Lectures/10 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/12 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/Images/12oct/Pasted image 20221122152255.png",
+    "Programming/AI/AI Game Production/Homam Lectures/Images/12oct/Pasted image 20221122151643.png",
+    "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121190033.png",
+    "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121185902.png",
     "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121185402.png",
     "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121185045.png",
-    "Programming/Shaders/Shaders 101.md",
     "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121184725.png",
-    "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121165030.png",
-    "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121163403.png",
-    "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121162209.png",
-    "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121162111.png"
+    "Programming/AI/AI Game Production/Homam Lectures/Images/10oct/Pasted image 20221121184317.png"
   ]
 }

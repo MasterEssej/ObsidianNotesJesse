@@ -72,6 +72,44 @@ Resize images
 > \- God
 
 
+`king in the castle`
+
+```C++
+void Main()
+{
+	while (1 == 1)
+	{
+		Debug.Log("True");
+	};
+};
+```
+
+	Hello
+
+- [ ] This is a task with a checkbox
+- [ ] **All the formatting works in here** #tag  [[Notes]] 
+- [x] Ye
+
+
+Cell | Another cell | A third cell | A cell with a very long name
+-- | -- | --: | :--:
+Content | Also content | | Tent
+More content | | Conten
+[[Notes]] | | | [[Notes\|Note Alias]]
+
+
+~~Strikethrough~~
+==Highlight==
+
+---
+***
+___
+
+[Footnotes](https://help.obsidian.md/How+to/Format+your+notes#Footnotes)
+
+
+
+
 
 
 tags
@@ -80,5 +118,6 @@ tags
 
 
 [[General/Notes]]
+[[10 OCT]]
 
 
