@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Computer Technology/23 NOV.md",
+                "file": "General/HowToObsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Computer Technology/23 NOV.md",
+                "file": "General/HowToObsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Computer Technology/23 NOV.md",
+                "file": "General/HowToObsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Computer Technology/23 NOV.md"
+                "file": "General/HowToObsidian.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "f24dd0fcf0b728a0",
   "lastOpenFiles": [
+    "Programming/Computer Technology/24 NOV.md",
+    "Programming/Computer Technology/Images/24nov/Pasted image 20221124132853.png",
+    "Programming/Computer Technology/23 NOV.md",
     "Programming/Computer Technology/Images/23nov/Pasted image 20221123191855.png",
     "Programming/Computer Technology/Images/23nov/Pasted image 20221123191230.png",
     "Programming/Computer Technology/Images/23nov/Pasted image 20221123191039.png",
-    "Programming/Computer Technology/23 NOV.md",
     "Programming/Computer Technology/Images/23nov/Pasted image 20221123185639.png",
     "Programming/Computer Technology/Images/23nov/Pasted image 20221123180513.png",
     "Programming/Computer Technology/Images/23nov/Pasted image 20221123171234.png",
-    "Programming/Computer Technology/Images/23nov/Pasted image 20221123163457.png",
-    "Programming/AI/AI Game Production/Homam Lectures/12 OCT.md",
-    "Programming/AI/AI Game Production/Homam Lectures/10 OCT.md"
+    "Programming/Computer Technology/Images/23nov/Pasted image 20221123163457.png"
   ]
 }
