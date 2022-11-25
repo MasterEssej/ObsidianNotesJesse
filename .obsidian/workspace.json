@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c32d9ee8a2af258b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Programming/Computer Technology/Images/25nov/Pasted image 20221125153821.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/HowToObsidian.md",
+                "file": "Programming/Computer Technology/Images/25nov/Pasted image 20221125153821.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/HowToObsidian.md",
+                "file": "Programming/Computer Technology/Images/25nov/Pasted image 20221125153821.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/HowToObsidian.md"
+                "file": "Programming/Computer Technology/Images/25nov/Pasted image 20221125153821.png"
               }
             }
           }
@@ -136,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f24dd0fcf0b728a0",
+  "active": "3f806260b004ce2e",
   "lastOpenFiles": [
+    "Programming/Computer Technology/25 NOV.md",
     "Programming/Computer Technology/24 NOV.md",
-    "Programming/Computer Technology/Images/24nov/Pasted image 20221124132853.png",
+    "Programming/Computer Technology/Images/25nov/Pasted image 20221125150819.png",
+    "Pasted image 20221125150742.png.md",
+    "Programming/Computer Technology/Images/25nov/Pasted image 20221125141445.png",
+    "Programming/Pasted image 20221125150742.png",
     "Programming/Computer Technology/23 NOV.md",
-    "Programming/Computer Technology/Images/23nov/Pasted image 20221123191855.png",
-    "Programming/Computer Technology/Images/23nov/Pasted image 20221123191230.png",
-    "Programming/Computer Technology/Images/23nov/Pasted image 20221123191039.png",
-    "Programming/Computer Technology/Images/23nov/Pasted image 20221123185639.png",
-    "Programming/Computer Technology/Images/23nov/Pasted image 20221123180513.png",
-    "Programming/Computer Technology/Images/23nov/Pasted image 20221123171234.png",
-    "Programming/Computer Technology/Images/23nov/Pasted image 20221123163457.png"
+    "General/HowToObsidian.md",
+    "Programming/Computer Technology/Images/24nov/Pasted image 20221124132853.png",
+    "Programming/Computer Technology/Images/23nov/Pasted image 20221123191855.png"
   ]
 }
