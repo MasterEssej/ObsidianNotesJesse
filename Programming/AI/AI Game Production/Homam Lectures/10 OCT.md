@@ -1,8 +1,5 @@
+[Lecture](https://changemakereducation-my.sharepoint.com/personal/susanna_tegnevall_cmeducations_se/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsusanna%5Ftegnevall%5Fcmeducations%5Fse%2FDocuments%2FInspelningar%2FAI%2F10%20Oct%20%2D%20Lecture%20Homam%20Mokayed%2D20221010%5F170047%2DMeeting%20Recording%2Emp4&nav=%7B%22playbackOptions%22%3A%7B%22startTimeInSeconds%22%3A1%2E278183%7D%7D)
 
-# Misc
-[Lecture](https://changemakereducation-my.sharepoint.com/personal/homam_mokayed_cmeducations_se/_layouts/15/stream.aspx?id=%2Fpersonal%2Fhomam%5Fmokayed%5Fcmeducations%5Fse%2FDocuments%2FInspelningar%2F10%20Oct%20%2D%20Lecture%20Homam%20Mokayed%2D20221010%5F170047%2DMeeting%20Recording%2Emp4&ga=1)
-#### Contact
-![[HomamContact.png]]
 # Course intro / focus
 ### AI in gaming
 ![[AIandGaming.png]]
@@ -54,8 +51,8 @@ This course will be more general and focus on applications of AI in the real wor
 ![[Syllabus.png]]
 
 
-# ;
 
+# Lecture
 ### Pipeline for License plate recognition
 **Image Processing -> Machine Learning**
 ##### Image
@@ -97,7 +94,7 @@ We have to get an image and extract the unique features (individual characters) 
 ![[Pasted image 20221121190033.png]]
 
 
-###### ;
+###### 
 Memory size depends on if image is Binary(Black/White), Grey Scale or RGB
 **Binary:**
 0-1 (Black or White)
