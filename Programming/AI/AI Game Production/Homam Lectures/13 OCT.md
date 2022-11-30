@@ -18,17 +18,21 @@ Check if border
 
 ###### ;
 
-RGB -> Grey -> Blur -> Binary
+RGB -> Grey -> Blur -> Binary / Edge / Whatever
 
-Blur before binary to remove noise (salt pepper). 
-
-
-
-**Continue from 1:23:40**
+Blur before to remove noise (salt pepper). Should not affect large objects (the plate).
 
 
+### Assignment
+
+![[Pasted image 20221130142714.png]]
+Segment image and remove everything that is not a rectangular region (the plate). 
 
 
+
+
+### Should do
+**Use Tesseract (Google OCR library)** Watch from 1:30:15
 
 
 

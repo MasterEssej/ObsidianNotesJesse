@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f0ed7662d5c074d",
+            "id": "4fa68bec48a1c85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/13 OCT.md",
+                "file": "Programming/AI/AI Game Production/Homam Lectures/18 OCT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/13 OCT.md",
+                "file": "Programming/AI/AI Game Production/Homam Lectures/18 OCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/13 OCT.md",
+                "file": "Programming/AI/AI Game Production/Homam Lectures/18 OCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/13 OCT.md"
+                "file": "Programming/AI/AI Game Production/Homam Lectures/18 OCT.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f0ed7662d5c074d",
+  "active": "4fa68bec48a1c85f",
   "lastOpenFiles": [
-    "Programming/AI/AI Game Production/Homam Lectures/Images/13oct/Pasted image 20221129202547.png",
+    "Programming/AI/AI Game Production/Homam Lectures/General.md",
+    "Programming/AI/AI Game Production/Homam Lectures/18 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/Images/18oct/Pasted image 20221130181042.png",
+    "Programming/AI/AI Game Production/Homam Lectures/17 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/Images/17oct/Pasted image 20221130170041.png",
     "Programming/AI/AI Game Production/Homam Lectures/13 OCT.md",
-    "Programming/AI/AI Game Production/Homam Lectures/Images/13oct/Pasted image 20221129201332.png",
-    "Programming/AI/AI Game Production/Homam Lectures/12 OCT.md",
-    "Programming/AI/AI Game Production/Homam Lectures/Images/12oct/Pasted image 20221129174921.png",
-    "Programming/AI/AI Game Production/Homam Lectures/Images/12oct/Pasted image 20221129173348.png",
     "Programming/AI/AI Game Production/Homam Lectures/11 OCT.md",
-    "General/HowToObsidian.md",
-    "Programming/AI/AI Game Production/Homam Lectures/Images/12oct/Pasted image 20221129144527.png",
-    "Programming/AI/AI Game Production/Homam Lectures/General.md"
+    "Programming/AI/AI Game Production/Homam Lectures/12 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/Images/13oct/Pasted image 20221130142714.png",
+    "Programming/AI/AI Game Production/Homam Lectures/10 OCT.md"
   ]
 }
