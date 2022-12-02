@@ -10,8 +10,8 @@ Apply **Equalize Histogram** to enhance brightness of image
 
 
 ![[Pasted image 20221201170139.png]]
-
 ![[Pasted image 20221201170653.png]]
+Use **OTSU** to find the best threshold for binarizing the plate.
 
 ![[Pasted image 20221201174649.png]]
 
