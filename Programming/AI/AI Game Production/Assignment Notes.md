@@ -21,6 +21,12 @@
 //    Mat ErodedImg = Erosion(BlurEdgeImg, 1);
 //    imshow("Eroded image", ErodedImg);
 
+//       Mat ErodePlate = Erosion(BinPlate, 1);
+//        imshow("Eroded plate" + to_string(k + 1), ErodePlate);
+
+//        Mat BinPlat = Dilation(BinPlate, 1);
+//        imshow("Dilated plate" + to_string(k + 1), BinPlat);
+
 ###### ;
 
 
@@ -70,3 +76,54 @@ Missing plates with GP 45: 4
 image 17 dissapears
 
 ignore 17, try to get some of the other plates to appear. focus on removing noise and get a few more fully working.
+
+
+###### Image stats
+Missing plates: 3, 10, 13, 17
+
+Noise: 2, 5, 7, 8
+
+Correct: 1, 4, 6, 9, 11, 12, 14*, 15, 16, 18, 19, 20
+###### ;
+
+
+
+# Plates
+
+### Erosion / Dilution (Bad)
+Without Erosion / Dilation
+![[NoErodeDilute.png]]
+
+With Erosion / Dilation
+![[ErodeDilute.png]]
+### ;
+### No E/D
+
+OTSUTH + 50
+![[OTSUTH50.png]]
+
+OTSUTH + 60
+![[OTSUTH60.png]]
+
+OTSUTH + 70
+![[OTSUTH70.png]]
+
+OTSUTH + 80
+![[OTSUTH80.png]]
+
+OTSUTH + 85
+![[OTSUTH85.png]]
+
+OTSUTH + 90
+![[OTSUTH90.png]]
+
+### ;
+
+Not working: 12, 15
+
+
+
+
+
+
+
