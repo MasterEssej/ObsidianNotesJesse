@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb3107295ec6ada",
+        "id": "874262d432700b57",
         "type": "tabs",
         "children": [
           {
-            "id": "8d4fc40d0949c61b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/AI/AI Game Production/Homam Lectures/General.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3daeb07daca3b27",
+            "id": "8678549a2ca8cf78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3daeb07daca3b27",
+  "active": "8678549a2ca8cf78",
   "lastOpenFiles": [
-    "xImageDump/OTSUTH90.png",
+    "Programming/AI/AI Game Production/Homam Lectures/13 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/20 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/19 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/18 OCT.md",
+    "Programming/AI/AI Game Production/Homam Lectures/17 OCT.md",
     "Programming/AI/AI Game Production/Assignment Notes.md",
-    "xImageDump/OTSUTH85.png",
-    "xImageDump/OTSUTH80.png",
-    "xImageDump/OTSUTH85D.png",
-    "xImageDump/OTSUTH90D.png",
-    "xImageDump/NoErodeDilute.png",
-    "xImageDump/ErodeDilute.png",
-    "xImageDump/OTSUTH70.png",
-    "xImageDump/OTSUTH60.png"
+    "Programming/Computer Technology/30 NOV.md",
+    "Programming/Computer Technology/Images/7dec/Pasted image 20221207150308.png",
+    "Programming/Computer Technology/7 DEC.md",
+    "Programming/Computer Technology/2 DEC.md"
   ]
 }

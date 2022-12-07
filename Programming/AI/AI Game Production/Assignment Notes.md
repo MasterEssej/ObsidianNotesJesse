@@ -124,6 +124,8 @@ Not working: 12, 15
 
 
 
+# Tesseract
 
+Keep adding additional dependecies
 
 
