@@ -126,6 +126,7 @@ Not working: 12, 15
 
 # Tesseract
 
-Keep adding additional dependecies
+**Used:** https://eddiehexorz.com/opencv-tesseract-ocr-setup-for-c-in-visual-studio/
+
 
 
