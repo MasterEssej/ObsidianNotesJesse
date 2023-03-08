@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "874262d432700b57",
+        "id": "c1ed5e49711cfcdc",
         "type": "tabs",
         "children": [
           {
-            "id": "8678549a2ca8cf78",
+            "id": "639c02663f1c2423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/AI/AI Game Production/Assignment Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33de0e87668bdd1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Computer Technology/13 DEC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59ec4100ea8c84b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/AI/AI Game Production/Assignment Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "272adda623f1c5e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/ECS/How to ECS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d1a44b33ec77edf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/ECS/How to ECS.md",
+                "file": "DegreeProject/General/ProjectPlanning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/ECS/How to ECS.md",
+                "file": "DegreeProject/General/ProjectPlanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/ECS/How to ECS.md",
+                "file": "DegreeProject/General/ProjectPlanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/ECS/How to ECS.md"
+                "file": "DegreeProject/General/ProjectPlanning.md"
               }
             }
           }
@@ -185,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d1a44b33ec77edf",
+  "active": "639c02663f1c2423",
   "lastOpenFiles": [
-    "Programming/Computer Technology/14 DEC.md",
-    "Programming/ECS/How to ECS.md",
-    "Programming/ECS/Images/Pasted image 20221213153353.png",
-    "Programming/ECS/Images/Pasted image 20221213143130.png",
-    "Programming/Computer Technology/2 DEC.md",
-    "xImageDump/Pasted image 20221213143232.png",
-    "Programming/ECS/Images/Pasted image 20221213143218.png",
     "Programming/AI/AI Game Production/Assignment Notes.md",
     "Programming/Computer Technology/13 DEC.md",
-    "Programming/Computer Technology/Images/13dec/Pasted image 20221213131336.png"
+    "Programming/ECS/How to ECS.md",
+    "2023-03-08.md",
+    "DegreeProject/General/ProjectPlanning.md",
+    "General/HowToObsidian.md",
+    "General/Notes.md",
+    "Programming/Computer Technology/14 DEC.md",
+    "Programming/ECS/Images/Pasted image 20221213153353.png",
+    "Programming/ECS/Images/Pasted image 20221213143130.png"
   ]
 }

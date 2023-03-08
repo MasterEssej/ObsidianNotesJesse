@@ -87,7 +87,7 @@ void Main()
 	Hello
 
 - [ ] This is a task with a checkbox
-- [ ] **All the formatting works in here** #tag  [[Notes]] 
+- [ ] **All the formatting works in here** #tag  [[General/Notes]] 
 - [x] Ye
 
 
@@ -95,7 +95,7 @@ Cell | Another cell | A third cell | A cell with a very long name
 -- | -- | --: | :--:
 Content | Also content | | Tent
 More content | | Conten
-[[Notes]] | | | [[Notes\|Note Alias]]
+[[General/Notes]] | | | [[General/Notes\|Note Alias]]
 
 
 ~~Strikethrough~~
