@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"DegreeProject/General/ProjectPlanning.md","id":"f3c145bc4c46d8e8","x":-1300,"y":-900,"width":480,"height":700},
+		{"id":"eef16ddd7d9bbf27","x":-460,"y":-1140,"width":220,"height":60,"color":"5","type":"text","text":"TopDown / SideScroller\n"},
+		{"id":"484d03957e23914c","x":-640,"y":-985,"width":250,"height":170,"type":"text","text":"TopDown\n\n"},
+		{"type":"text","text":"SideScroller\n\n","id":"d6873bc389d6bff7","x":-320,"y":-985,"width":250,"height":170}
+	],
+	"edges":[]
+}
